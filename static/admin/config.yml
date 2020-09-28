@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: timmh/juso-hsg-website
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
